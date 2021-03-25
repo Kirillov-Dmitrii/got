@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+   outline: none;
+}
+
+body {
+   background-color: #000;
+   background: url("./img/game-of-thrones-illustration-sean-longmore-1598631176.jpeg") center center/cover no-repeat;
+   background-position-y: 0px;
+   height: 560px;
+   font-style: 16px;
+   overflow-x: hidden;
+}
